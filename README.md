@@ -1,5 +1,4 @@
-This app can be found at the Domain: https://usa-elections.herokuapp.com/
-&nbsp;
+This app can be found at the Domain: https://usa-elections.herokuapp.com/ </br> </br>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
