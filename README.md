@@ -3,6 +3,7 @@ This app can be found at the Domain: https://usa-elections.surge.sh/ </br> </br>
 ![alt text](https://raw.githubusercontent.com/Grois333/usa-elections/master/usa-elections.png)
 
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
